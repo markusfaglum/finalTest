@@ -19,15 +19,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:testBranch" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/testBranch" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32a04ecc-169e-4946-a019-ab64b6b38a4f" name="Default Changelist" comment="Added nothing for a test">
-      <change beforePath="$PROJECT_DIR$/.idea/finalTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/finalTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="32a04ecc-169e-4946-a019-ab64b6b38a4f" name="Default Changelist" comment="Added code to print out a short text">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="testBranch" />
+                        <option value="origin/testBranch" />
                       </list>
                     </value>
                   </entry>
@@ -100,12 +101,18 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added nothing for a test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added nothing for a test" />
+    <MESSAGE value="Added code to print out a short text" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code to print out a short text" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="183" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612964092232">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="183" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612964092232" />
     <state x="502" y="298" key="FileChooserDialogImpl" timestamp="1612960279812">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -126,5 +133,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="105" y="164" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1612962696525" />
+    <state x="385" y="252" key="run.anything.popup" timestamp="1612963795140">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="385" y="252" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1612963795140" />
   </component>
 </project>
